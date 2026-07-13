@@ -1,4 +1,4 @@
-# Hyunyoung Park
+# Hayoung Park
 
 ### Machine Learning Engineer & Researcher
 
